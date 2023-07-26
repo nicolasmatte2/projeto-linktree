@@ -1,6 +1,6 @@
 # Linktree - Meu Projeto do Curso da Rocketseat
 
-![Linktree](linktree_screenshot.png)
+https://nicolasmatte2.github.io/projeto-linktree/
 
 ## Visão Geral
 
